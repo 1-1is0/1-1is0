@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1-1is0
+- 👋 Hi, I’m Amir
 - 👀 I’m interested in Data Science and DevOps
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on DevOps
